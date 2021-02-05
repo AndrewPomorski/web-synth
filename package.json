@@ -1,7 +1,7 @@
 {
-  "name": "ts-lib-starter",
+  "name": "web-synth",
   "version": "0.0.1",
-  "description": "Project template for a Typescript library",
+  "description": "Modular WebAudio synthesizer",
   "main": "react-lib.umd.js",
   "module": "react-lib.esm.js",
   "private": "true",
