@@ -1,1 +1,0 @@
-{"version":3,"file":"ts-lib.umd.js","sources":["../src/index.ts"],"sourcesContent":["console.log('test');"],"names":["console","log"],"mappings":"2FAAAA,QAAQC,IAAI"}

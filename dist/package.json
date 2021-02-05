@@ -1,14 +1,14 @@
 {
   "name": "ts-lib-starter",
   "version": "0.0.1",
-  "description": "Project template for a typescript library",
-  "main": "ts-lib.umd.js",
-  "module": "ts-lib.esm.js",
+  "description": "Project template for a Typescript library",
+  "main": "react-lib.umd.js",
+  "module": "react-lib.esm.js",
   "private": true,
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DenysVuika/react-lib.git"
+    "url": "git+https://github.com/AndrewPomorski/ts-lib-starter"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DenysVuika/react-lib/issues"
+    "url": "https://github.com/AndrewPomorski/ts-lib-starter/issues"
   },
-  "homepage": "https://github.com/DenysVuika/react-lib#readme",
+  "homepage": "https://github.com/AndrewPomorski/ts-lib-starter#readme",
   "peerDependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
